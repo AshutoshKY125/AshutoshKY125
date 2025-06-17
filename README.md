@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.squarespace.com/websites/create-a-portfolio](https://www.squarespace.com/websites/create-a-portfolio)
+- 👨‍💻 All of my projects are available at [MY_REPO](https://github.com/AshutoshKY125)
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Natural Language Processing, Java Programming, College Placements Tips**
 
