@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshky125" alt="ashutoshky125" /></a> </p>
 
-- 🔭 I’m currently working on [Student Performance Predictor](https://github.com/AshutoshKY125/student-performance-predictor)
+- 🔭 I’m currently working on [Learning Flask](https://github.com/AshutoshKY125/Flask-Learn)
 
 - 🌱 I’m currently learning **Machine Learning**
 
