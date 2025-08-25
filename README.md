@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ashutoshkumaryadav040903@gmail.com**
 
-- 📄 Know about my experiences [https://vitbhopalacin-my.sharepoint.com/:w:/g/personal/ashutoshkumaryadav2022_vitbhopal_ac_in/EVtzvUBRCkBEmN2it-yGw9MBZUcYh9FO7-AfU5_mqXtXnA?e=w0GO9I](https://vitbhopalacin-my.sharepoint.com/:w:/g/personal/ashutoshkumaryadav2022_vitbhopal_ac_in/EVtzvUBRCkBEmN2it-yGw9MBZUcYh9FO7-AfU5_mqXtXnA?e=w0GO9I)
+- 📄 Know about my experiences [MY RESUME](https://drive.google.com/file/d/13Kzd7C8cV4ctwf_gzZXlO2_f1Keulijb/view?usp=drivesdk)
 
 - ⚡ Fun fact **You Can't win in " ANYTHING " against me.**
 
